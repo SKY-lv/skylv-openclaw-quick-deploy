@@ -1,13 +1,23 @@
-# skylv-openclaw-quick-deploy
+# Openclaw Quick Deploy
 
-openclaw quick deploy - OpenClaw Skill
+> openclaw quick deploy - OpenClaw Skill
 
 ## Install
-```
+
+```bash
 openclaw skills install skylv-openclaw-quick-deploy
 ```
 
-## Description
-An OpenClaw skill for openclaw quick deploy.
+Or from ClawHub:
 
-MIT License © SKY-lv
+```
+https://clawhub.ai/skylv-openclaw-quick-deploy
+```
+
+## About
+
+This skill is part of the [SKY-lv OpenClaw Skills Collection](https://github.com/SKY-lv/awesome-openclaw-skills).
+
+## License
+
+MIT © SKY-lv
