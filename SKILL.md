@@ -1,8 +1,8 @@
 ---
 name: openclaw-quick-deploy
 slug: skylv-openclaw-quick-deploy
-version: 1.0.0
-description: "OpenClaw 一键部署助手。5 分钟快速部署 OpenClaw 到 VPS/Docker/本地，包含环境检测、依赖安装、配置生成。Triggers: deploy openclaw, install openclaw, openclaw setup, quick start."
+version: 1.0.2
+description: OpenClaw one-click deploy assistant. Deploys OpenClaw to VPS/Docker/local in 5 minutes with env detection. Triggers: openclaw deploy, install openclaw, openclaw setup.
 author: SKY-lv
 license: MIT
 tags: [openclaw, deploy, installation, devops, quickstart]
